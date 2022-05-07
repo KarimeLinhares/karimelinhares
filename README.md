@@ -48,7 +48,7 @@
 </p>
 
 ### ❤ My Stats
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 
 <div align="center">
   <a href="https://github.com/karimelinhares">
@@ -56,4 +56,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelinhares&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
  
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
