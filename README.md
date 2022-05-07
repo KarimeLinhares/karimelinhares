@@ -1,6 +1,14 @@
 <img align="right" width="250px" src="https://i.ibb.co/TrTWvMx/2.png" alt="2" border="0">
           
 # Hi there 👋
+<p align="left">
+  <a href="mailto:linhares.karime@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" target="_blank" /></a>
+
+  <a href="https://www.linkedin.com/in/karime-linhares-13072b73/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" target="_blank" /></a>
+</p>  
+
 ### I'm Karime, Nice to see you here!
 
 <p align="left"> 
@@ -40,7 +48,7 @@
 </p>
 
 ### ❤ My Stats
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div align="center">
   <a href="https://github.com/karimelinhares">
@@ -48,11 +56,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelinhares&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
  
-### 💌 Contato
-<p align="left">
-  <a href="mailto:linhares.karime@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/karime-linhares-13072b73/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
