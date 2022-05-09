@@ -35,7 +35,7 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />        
 </p>
 
-### 🤔 Linguagens e Ferramentas que Estou Estudando
+### 🤔 Linguagens e Ferramentas que Estou Estudando ou Quero Estudar
 
 <p align="center">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
