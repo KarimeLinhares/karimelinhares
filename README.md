@@ -1,5 +1,3 @@
-<img align="right" width="250px" src="https://i.ibb.co/TrTWvMx/2.png" alt="2" border="0">
-          
 # Hi there 👋
 <p align="left">
   <a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
@@ -50,7 +48,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/karimelinhares">
+  <a href="https://github.com/KarimeLinhares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karimelinhares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelinhares&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
