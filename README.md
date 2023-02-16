@@ -47,7 +47,7 @@
 ## ❤ My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KarimeLinhares&show_icons=true&include_all_commits=true&count_private=true&line_height=24&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimeLinhares&line_height=24&langs_count=8&card_width=450&layout=compact&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimeLinhares&line_height=24&langs_count=8&card_width=300&layout=compact&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)
 ](https://github.com/anuraghazra/github-readme-stats)
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
