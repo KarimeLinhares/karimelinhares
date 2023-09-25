@@ -1,5 +1,11 @@
 # Hi there 👋
+
+<a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karimelinhares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <p align="left">
+  
   <a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
@@ -9,8 +15,8 @@
 
 ### I'm Karime, Nice to see you here!
 
-- 👩🏻‍💻 I'm a <strong>Systems Analyst and Front-End developer</strong>, in constant learning process.
-- 📚 Currently learning: Vue.Js, WordPress, Node.js, TypeScript, Flutter
+- 👩🏻‍💻 I'm a <strong>Systems Analyst and FullStack developer</strong>, in constant learning process.
+- 📚 Currently learning: .NET, Docker, MongodB, Java
 - 📌 Interests: UX, UI Design, Video Editing, Motion Graphics.
 
 ## 🦄 Languages and Tools
