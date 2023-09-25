@@ -1,10 +1,10 @@
 # Hi there 👋
 
-<a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
+<a href="mailto:linhares.karime@gmail.com" target="_blank" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:karime_muniz@hotmail.com" alt="hotmail" target="_blank">
+<a href="mailto:karime_muniz@hotmail.com" target="_blank" alt="hotmail">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karimelinhares" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/karimelinhares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
 
 
 ### I'm Karime, Nice to see you here!
