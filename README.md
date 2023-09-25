@@ -2,14 +2,15 @@
 
 <a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:karime_muniz@hotmail.com" alt="hotmail" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/karimelinhares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 ### I'm Karime, Nice to see you here!
 
 - 👩🏻‍💻 I'm a <strong>Systems Analyst and FullStack developer</strong>, in constant learning process.
-- 📚 Currently learning: .NET, Docker, MongodB, Java
-- 📌 Interests: UX, UI Design, Video Editing, Motion Graphics.
+- 📌 Interests: Video Games/ MMORPGs 🎮, Romance and Fantasy Books and Novels📚 and Series in Tv 📺 
 
 ### 🦄 Front-End
 
@@ -62,27 +63,27 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 
-### If you like some of my projects, please let me know ⭐
+### If you like some of my projects, please let me know. Give a ⭐ in the repositorys
 
 
 <table>
 	<tbody>
     <tr>
         <td>
-            <a href="https://github.com/KarimeLinhares/TypeScriptBank---desafio03" target="blank"><h3>TypeScript - Banco Digital</h3></a>
-            <p>projeto de banco digital com front e back</p>
+            <a href="https://github.com/KarimeLinhares/TypeScriptBank---desafio03" target="blank"><h3>TypeScript - Digital Bank</h3></a>
+            <p>digital bank with front and back-end</p>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/KarimeLinhares/Buddys" target="blank"><h3>React - Página Social Buddys</h3></a>
-            <p>projeto de social web para cachorrinhos, com front e back</p>
+            <a href="https://github.com/KarimeLinhares/Buddys" target="blank"><h3>React - Buddys</h3></a>
+            <p>social page for doggys, with front and back-end</p>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/KarimeLinhares/Animais-Fantasticos" target="blank"><h3>JavaScript - Página Web</h3></a>
-            <p>projeto de página web usando somente conceitos de javascript</p>
+            <a href="https://github.com/KarimeLinhares/Animais-Fantasticos" target="blank"><h3>JavaScript - Web Page</h3></a>
+            <p>web page using only JavaScript concepts</p>
         </td>
     </tr>
     </tbody>
