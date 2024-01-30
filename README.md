@@ -10,7 +10,7 @@
 ### I'm Karime, Nice to see you here!
 
 - 👩🏻‍💻 I'm a <strong>Systems Analyst and FullStack developer</strong>, in constant learning process.
-- 📌 Interests: Video Games/ MMORPGs 🎮, Romance and Fantasy Books and Novels📚 and Series in Tv 📺 
+- 📌 Interests: Video Games/ MMORPGs 🎮, Romance and Fantasy Books and Novels📚 and TV Series 📺 
 
 ### 🦄 Front-End
 
